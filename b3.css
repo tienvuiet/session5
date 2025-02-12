@@ -1,0 +1,20 @@
+
+.vienvien{
+    width: 100%;
+    border-collapse: collapse;
+    padding: 8px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+    border-left: 2px solid #ddd;
+    border-right: 2px solid #ddd; 
+}
+
+.nen{
+    background-color: bisque;
+} 
+.tieude{
+    background-color: aqua;
+} 
+.giua{
+    background-color: azure;
+}

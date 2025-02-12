@@ -1,0 +1,43 @@
+ul{
+    background-color: rebeccapurple;
+}
+ul{
+    /* ghi đè lại thuộc tính trong CSS */
+    background-color:aqua;
+}
+h1{
+    background-color: chartreuse !important;
+}
+div{
+    background-color: black;color: palegoldenrod;
+}
+li{
+    background-color: yellow;
+}
+#second-li{
+    background-color: burlywood;
+    color: rgb(134, 88, 31);
+}
+.demo-class{
+    background-color: rgb(171, 153, 37);
+    color: chartreuse;
+}
+/* giả sử
+Tạo kiểu dành cho văn bản qua các thuộc tính CSS
+font-size: 20px;
+font-weight: bold;
+text-decoration: underline; */
+
+.text-transform{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.first-content p{
+    background-color: goldenrod;
+    color: crimson;
+}
+.second-li{
+    background-color: aqua;
+    color: brown;
+}
