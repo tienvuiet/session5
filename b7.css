@@ -1,0 +1,47 @@
+/* B1:Thiết lập thông số chung */
+*{
+    font-family: "Bahnsc";
+    
+}
+
+
+table{
+    width: 100%
+
+}
+.tieude{
+    background-color: #027bff;
+    color: #f4f4f4;
+    
+}
+.tieude1{
+    text-align: center;
+}
+.nen{
+    background-color: #f4f4f4;
+}
+.dongle{
+    background-color: #ffffff;
+}
+.xanh{
+    background-color: #008a00;
+    color: #f9fafa;
+    border: 3px solid transparent;
+    margin-left: 3px;
+    margin-right: 3px;
+
+}
+.cam{
+    background-color: rgb(223, 144, 76);
+    color: rgb(39, 39, 39);
+    border: 3px solid transparent;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.do{
+    background-color: red;
+    color: #f9fafa;
+    border: 3px solid transparent;
+    margin-left: 3px;
+    margin-right: 3px;
+}
