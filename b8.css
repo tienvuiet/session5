@@ -1,0 +1,15 @@
+*{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+span{
+    color: gray;
+    font-size: 10px;
+    
+}
+tr td{
+    padding-top: 30px;
+}
+h1{
+    font-size: 30px;
+}
